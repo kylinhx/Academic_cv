@@ -113,5 +113,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am currently a student in Beijing Institute of Technology. My research and working interests include computer vision, deep learning, robotics engineering, SLAM, and more. I am eager to take on challenges in new domains, and my ultimate goal is to create something practical and valuable. I aspire for my future work to make a meaningful impact and help more people.
+Hi, I'm **Xu Han**. My English name is **Kylin Han**. I am currently a student in Beijing Institute of Technology, China. My research and working interests include **computer vision**, **deep learning**, **robotics engineering**, **SLAM**, and more. I aspire to pursue a doctoral degree and engage in research within a related field. I am eager to take on challenges in new domains, and my ultimate goal is to create something practical🛠️ and valuable🌟. I aspire for my future work to make a meaningful impact and help more people.
 {style="text-align: justify;"}

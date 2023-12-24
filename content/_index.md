@@ -83,6 +83,7 @@ sections:
           date_start: '2023-02-01'
           date_end: '2023-12-31'
           description: |2-
+              Under the supervision of Dr. Liang Zeng:
               * Enhanced YOLOv7 model to solve 11 classes fine-grained cell detection tasks. 
               * Currently writing a paper as first author and preparing to submit it to IEEE Transactions on Medical Imaging.
     design:
